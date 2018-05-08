@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background: white;
+}
+.container {
+    background: lightseagreen;
+    padding-bottom: 11em;
+}
+.cardheader  {
+    background: lightseagreen;
+    text-align: center;
+    margin-bottom: 8em;
+}
+.card-subtitle {
+    margin-bottom: 0.3em;
+    font-size: 1.5em;
+    text-align: center;
+}
+#startGame {
+    width: 30em;
+    text-align: center;
+    margin-left: 13em;
+    margin-top:0.8em
+}
+.btn {
+    width: 30em;
+    text-align: center;
+    margin:auto;
+    margin-top:0.8em
+}
